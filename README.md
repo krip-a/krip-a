@@ -5,7 +5,7 @@
 - Currently learning Python 
 - Looking to collaborate in beginner-friendly open source projects
 
-## COntact
+## Contact
 - Email: nkripa00@gmail.com
 
 
